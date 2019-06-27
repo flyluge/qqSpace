@@ -1,0 +1,9 @@
+.top_nav{
+	background-color: skyblue;
+}
+.top_nav .nav{
+	list-style: none;
+}
+.top_nav .nav li{
+	float: left;
+}
